@@ -7,8 +7,11 @@ cover - Конвертор логов proxy в формат [genericCaverage](ht
 ### Хау ту
 
 Настраиваем отладку по http
+
 Запускаем Coverage41C
+
 Выполняем действия  
+
 Останавливаем Coverage41C
-Конвертируем csv в json
+
 Запускаем cover
